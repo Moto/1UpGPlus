@@ -1,4 +1,6 @@
-1-Up for Google+ Chrome Extension
+Super Mario Brothers
+1-Up Mushroom for Google+
+A Chrome Extension to replace the 1+ button.
 
 Blip.Fm stuff will be removed from my fork, only plan to support and code Google+ 1-up.
 Better support for Google+ along with finding out and fixing the sound dying bug will be fixed.
